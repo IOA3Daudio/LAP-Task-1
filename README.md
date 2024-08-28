@@ -1,4 +1,4 @@
-# Winner of Task-1 of the LAP challenge
+# Task-1 of the LAP challenge
 Jiale Zhao, Dingding Yao, Zelin Qiu, Chengzhong Wang, and Junfeng Li: Normalization of Head-Related Transfer Functions Based on Neural Networks.
 
 ## Preprocessing
