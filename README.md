@@ -17,5 +17,8 @@ The floder named `training` houses the Python code used for training the neural 
    ```
    to test the trained model and save the results in `*.mat`
 
+
+The file `slides_240829_eusipco.pdf' contains the slides for our presentation at EUSIPCO 2024.
+
 LAP challenge:
 https://www.sonicom.eu/lap-challenge/
