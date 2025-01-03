@@ -17,6 +17,6 @@ The floder named `training` houses the Python code used for training the neural 
 LAP challenge:
 https://www.sonicom.eu/lap-challenge/
 
-# Audio Demo
-Please visit the html to play the demo audio online.
+# Demo
+Please visit the provided HTML link to play the demo audio online.
 [Demo Page](https://htmlpreview.github.io/?https://github.com/IOA3Daudio/LAP-Task-1/blob/main/demo/demo.html)
