@@ -19,4 +19,4 @@ https://www.sonicom.eu/lap-challenge/
 
 # Audio Demo
 Please visit the html to play the demo audio online.
-[Demo Page](https://htmlpreview.github.io/?https://github.com/IOA3Daudio/LAP-Task-1/blob/main/demo/x.html)
+[Demo Page](https://htmlpreview.github.io/?https://github.com/IOA3Daudio/LAP-Task-1/blob/main/demo/demo.html)
