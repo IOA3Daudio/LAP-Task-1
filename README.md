@@ -3,6 +3,7 @@ Jiale Zhao, Dingding Yao, and Junfeng Li: Cross-dataset Head-Related Transfer Fu
 
 ## Network training
 The floder named `training` houses the Python code used for training the neural network.
+
 run:
 ```
 python train.py
