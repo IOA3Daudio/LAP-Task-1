@@ -20,6 +20,4 @@ https://www.sonicom.eu/lap-challenge/
 # Audio Demo
 ## SONICOM (0,60)
 True:
-​<audio id="audio" controls="" preload="none">
-      <source id="wav" src="[音频地址](https://github.com/IOA3Daudio/LAP-Task-1/blob/main/demo/SONICOM_0_60_TRUE.wav)">
-</audio>
+<audio src="https://github.com/IOA3Daudio/LAP-Task-1/blob/main/demo/SONICOM_0_60_TRUE.wav"></audio>
