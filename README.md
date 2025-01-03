@@ -18,6 +18,5 @@ LAP challenge:
 https://www.sonicom.eu/lap-challenge/
 
 # Audio Demo
-## SONICOM (0,60)
-True:
-<audio src="https://github.com/IOA3Daudio/LAP-Task-1/blob/main/demo/SONICOM_0_60_TRUE.wav"></audio>
+Please visit the html to play the demo audio online.
+[Demo Page](https://htmlpreview.github.io/?https://github.com/IOA3Daudio/LAP-Task-1/blob/main/demo/x.html)
