@@ -1,14 +1,26 @@
 # Task-1 of the LAP challenge
 Jiale Zhao, Dingding Yao, and Junfeng Li: Cross-dataset Head-Related Transfer Function Harmonization Based on Perceptually Relevant Loss Function.
 
-## Network training
-The floder named `training` houses the Python code used for training the neural network.
+## Steps for generating the dataset
+The floder named `matlab scripts` houses the MATLAB code used for preprocessing the sofa files.
+run```main preprocessing.m```to save the dataset.
+It is noteworthy that you should add the SOFA toolbox (https://github.com/sofacoustics/SOFAtoolbox) and AKtools (https://www.tu.berlin/en/ak/forschung/publikationen/open-research-tools/aktools) ito the search path.
 
-run:
-```
-python train.py
-```
-to train the proposed model.
+## Steps for training the proposed model
+The floder named `scripts` houses the PYTHON code.
+1. open:
+    ```
+    config.py
+    ```
+    to modify the training configurations.
+   
+3. run:
+    ```
+    train.py
+    ```
+    to train the proposed model.
+
+The harmonized HRIRs are automatically saved upon completion of model training.
 
 LAP challenge:
 https://www.sonicom.eu/lap-challenge/
