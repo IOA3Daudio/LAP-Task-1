@@ -29,6 +29,6 @@ class DefaultConfig(object):
     # evaluation position
     pos_sum = 126
 
-    # scheduler_step_size = 200
-    # scheduler_gamma = 0.9
+    scheduler_step_size = 200
+    scheduler_gamma = 0.9
     
