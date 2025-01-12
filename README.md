@@ -21,6 +21,7 @@ The floder named `scripts` houses the PYTHON code.
     to train the proposed model.
 
 The harmonized HRIRs are automatically saved upon completion of model training.
+Go to the folder named `matlab scripts\\reconstruct HRIRs`,  run```main_nn_rcon.m```to harmonize and reconstruct the ITD information.
 
 LAP challenge:
 https://www.sonicom.eu/lap-challenge/
