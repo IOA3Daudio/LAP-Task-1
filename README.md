@@ -1,6 +1,8 @@
 # Task-1 of the LAP challenge
 Jiale Zhao, Dingding Yao, and Junfeng Li: Cross-dataset Head-Related Transfer Function Harmonization Based on Perceptually Relevant Loss Function.
 
+**Note: The code is still under development and may undergo significant changes!**
+
 ## Steps for generating the dataset
 The floder named `matlab scripts` houses the MATLAB code used for preprocessing the sofa files.
 run```main preprocessing.m```to save the dataset.
